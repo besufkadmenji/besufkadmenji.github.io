@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[11],{VPwj:function(t,n,a){"use strict";a.r(n);a("q1tI"),a("Wbzz"),a("tBDR");var e=a("DGZL"),c=a("ntAx"),u=(a("6NVy"),a("ifI6")),i=a("AeFk");n.default=function(){return Object(i.a)(c.a,null,Object(i.a)(e.a,{title:"Shop"}),Object(i.a)(u.a,null))}}}]);
+//# sourceMappingURL=component---src-pages-shop-jsx-87d06be40b1d00cca4fe.js.map
